@@ -1,0 +1,72 @@
+{
+    "status": "ok",
+    "totalResults": 4284,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Telegraaf.nl"
+            },
+            "author": "Theo Besteman",
+            "title": "Arcelor leidt opmars Damrak na optimisme Fed",
+            "description": "Beleggers begonnen maandag met winst op het Damrak. Ze reageerden sterk op woorden van Fed-voorzitter Jerome Powell die aankondigde dat de VS een recessie gaan ontlopen. Wall Street staat voor een hogere opening. ArcelorMittal ging aan kop met Shell. Vastgoed…",
+            "url": "https://www.telegraaf.nl/financieel/1241753045/arcelor-leidt-opmars-damrak-na-optimisme-fed",
+            "urlToImage": "https://www.telegraaf.nl/images/1200x630/filters:format(jpeg):quality(80)/cdn-kiosk-api.telegraaf.nl/8124da42-98d6-11ea-808e-02c309bc01c1.jpg",
+            "publishedAt": "2020-05-18T07:04:00Z",
+            "content": "De AEX-index noteerde daarop, na 3,9% verlies vorige week, 1,8% winst bij 509,3 punten. De AMX-index koerste 1,6% hoger bij 682,7 punten.\r\nIn Azië steeg de Japanse Nikkei met 0,5%. De op twee na grootste economie is in een recessie gegaan na een krimp met 0,9… [+1883 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Whitecoatinvestor.com"
+            },
+            "author": "The White Coat Investor",
+            "title": "Portfolio Construction Case Studies",
+            "description": "I can talk until I'm blue in the face about how to build a portfolio, but maybe it is easier to just show you. \nThe post Portfolio Construction Case Studies appeared first on The White Coat Investor - Investing & Personal Finance for Doctors.",
+            "url": "https://www.whitecoatinvestor.com/portfolio-construction-case-studies/",
+            "urlToImage": "https://www.whitecoatinvestor.com/wp-content/uploads/2020/05/Portfolio-Construction-Case-Studies-FB.png",
+            "publishedAt": "2020-05-18T06:30:31Z",
+            "content": "I have tried over the years to teach the principles of basic portfolio construction, with varying levels of success. Part of the issue is that most people only ever do it once and even a high-quality financial advisor may only do it 50-100 times in their life… [+23550 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seekingalpha.com"
+            },
+            "author": "Jane Edmondson",
+            "title": "How Blockchain Can Help Cure COVID-19",
+            "description": "It may not be as obvious as “stay at home” and “work from home” investment themes, but blockchain will be another important beneficiary of the COVID-19 pandemic environment.Blockchain offers important solutions for payment, supply chain management, and health…",
+            "url": "https://seekingalpha.com/article/4348340-how-blockchain-can-help-cure-covidminus-19",
+            "urlToImage": "https://static.seekingalpha.com/uploads/2020/5/15/6188291-15895677658546937_origin.png",
+            "publishedAt": "2020-05-18T03:01:09Z",
+            "content": "The use of blockchain was already growing at a nice clip thanks to a growing list of usecases spanning almost every industry. Industry research consultant MarketsandMarkets projects that the size of the blockchain market will grow at a 67.3% CAGR over the nex… [+10020 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dailyfx.com"
+            },
+            "author": "David Cottle",
+            "title": "Japanese Yen Back to Crucial USD Range After Downside Break",
+            "description": "The US Dollar and Japanese Yen remain locked in a haven currency battle which has seen the dominance of a USD/JPY retracement trading band reasserted yet again.",
+            "url": "https://www.dailyfx.com/forex/technical/home/analysis/usd-jpy/2020/05/18/Japanese-Yen-Back-to-Crucial-USD-Range-After-Downside-Break.html",
+            "urlToImage": "https://a.c-dn.net/b/1g93QM/headline_YEN_06.JPG",
+            "publishedAt": "2020-05-18T03:00:00Z",
+            "content": "Japanese Yen Technical Analysis Talking Points:\r\n<ul><li>USD/JPY is back within a trading band which has exerted influence since early March</li><li>Traders will now be warier of breaks, either way</li><li>GBP/JPY looks more clearly heavy as the British Pound… [+3207 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo.co.jp"
+            },
+            "author": "CoinDesk Japan",
+            "title": "ビットコインオプションの取引高、記録更新──半減期後も機関投資家の参入（CoinDesk Japan）",
+            "description": "ビットコイン半減期の後、シカゴ・マーカンタイル取引所（CME）におけるビットコインオプションの取引高は過去最高を更新した。ビットコインは協定世界時5月11日（日本時間12日）に半減期を迎え、マイニン",
+            "url": "https://headlines.yahoo.co.jp/hl?a=20200518-00083727-coindesk-bus_all",
+            "urlToImage": "https://lpt.c.yimg.jp/amd/20200518-00083727-coindesk-000-view.jpg",
+            "publishedAt": "2020-05-18T02:35:47Z",
+            "content": "CME7270\r\n1213141414200\r\n1Emmanuel GohCEO14Consensus: Distributed\r\nCME\r\n18000\r\nDeribit\r\nCMECEO\r\nCME13CME25001770%14900\r\nCoinDesk Japan | | Shutterstock | Bitcoin Options Trading at CME Surged to New Highs in Halving Week"
+        }
+    
+    ]
+}
