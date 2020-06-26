@@ -1,0 +1,139 @@
+{
+  "status": true,
+  "message": "list all",
+  "data": [
+    {
+      "category_id": "42380",
+      "category_name": "School",
+      "category_avatar": "category_724861b3-0aee-4046-acc5-ff11302cda40.png",
+      "category_postion": 1,
+      "create_at": "2020-06-23 16:07:55"
+    },
+    {
+      "category_id": "19893",
+      "category_name": "Bicycle",
+      "category_avatar": "category_da47834f-b5f5-4ff4-bc8f-ca606fde4a0a.png",
+      "category_postion": 2,
+      "create_at": "2020-06-23 16:21:05"
+    },
+    {
+      "category_id": "12310",
+      "category_name": "Fruites",
+      "category_avatar": "category_7da6660b-4211-434e-8743-450b1e90e1e0.png",
+      "category_postion": 3,
+      "create_at": "2020-06-23 16:21:28"
+    },
+    {
+      "category_id": "83170",
+      "category_name": "Electronics",
+      "category_avatar": "category_0f2e468d-4799-40dc-aa59-0297a235c7bc.png",
+      "category_postion": 4,
+      "create_at": "2020-06-23 16:21:50"
+    },
+    {
+      "category_id": "76431",
+      "category_name": "Computer",
+      "category_avatar": "category_64991222-5500-4010-8fd7-beedcd1e3362.png",
+      "category_postion": 5,
+      "create_at": "2020-06-23 16:22:07"
+    },
+    {
+      "category_id": "54722",
+      "category_name": "Auto Ricksaw",
+      "category_avatar": "category_085c2119-61c9-427c-9dd7-b19b4059e123.png",
+      "category_postion": 6,
+      "create_at": "2020-06-23 17:44:16"
+    },
+    {
+      "category_id": "99251",
+      "category_name": "Bank",
+      "category_avatar": "category_d9a5eda6-d9c6-43c1-ab60-1c684ad8c721.png",
+      "category_postion": 7,
+      "create_at": "2020-06-23 17:44:35"
+    },
+    {
+      "category_id": "99916",
+      "category_name": "General Store",
+      "category_avatar": "category_b2142bb9-698f-4435-bdd6-8d5ae9e26a06.png",
+      "category_postion": 7,
+      "create_at": "2020-06-23 17:45:06"
+    },
+    {
+      "category_id": "69892",
+      "category_name": "Jewels",
+      "category_avatar": "category_cb1aa055-da36-4e4b-8898-c43769775609.png",
+      "category_postion": 8,
+      "create_at": "2020-06-23 17:46:21"
+    },
+    {
+      "category_id": "57298",
+      "category_name": "Bus Stop",
+      "category_avatar": "category_6b5150f4-3286-4adb-98fc-90ddfd7671fa.png",
+      "category_postion": 9,
+      "create_at": "2020-06-23 17:52:29"
+    },
+    {
+      "category_id": "72584",
+      "category_name": "Hospital",
+      "category_avatar": "category_b0f58fa6-e7b0-48dc-ab91-df40f8f6e34e.png",
+      "category_postion": 10,
+      "create_at": "2020-06-23 17:52:57"
+    },
+    {
+      "category_id": "58537",
+      "category_name": "Shoes",
+      "category_avatar": "category_e00fd410-1dd7-4682-bc5f-c168590df662.png",
+      "category_postion": 11,
+      "create_at": "2020-06-23 17:53:28"
+    },
+    {
+      "category_id": "34807",
+      "category_name": "Vegetables",
+      "category_avatar": "category_d9504d29-999c-4b1d-8cb7-230a418fb590.png",
+      "category_postion": 12,
+      "create_at": "2020-06-23 17:53:48"
+    },
+    {
+      "category_id": "58262",
+      "category_name": "Sweets",
+      "category_avatar": "category_35bac941-d8f6-48db-bb12-08947269d3dc.png",
+      "category_postion": 13,
+      "create_at": "2020-06-23 17:54:08"
+    },
+    {
+      "category_id": "31078",
+      "category_name": "Resturent",
+      "category_avatar": "category_8f66690d-1e97-46f3-9ce1-b69617927693.png",
+      "category_postion": 14,
+      "create_at": "2020-06-23 17:55:33"
+    },
+    {
+      "category_id": "50813",
+      "category_name": "Groceries",
+      "category_avatar": "category_0fa96595-3600-4671-8e3e-49ba6e131a20.png",
+      "category_postion": 15,
+      "create_at": "2020-06-23 17:56:04"
+    },
+    {
+      "category_id": "64581",
+      "category_name": "Medicine",
+      "category_avatar": "category_9394e184-12ad-4f27-8246-8e55ee131fff.png",
+      "category_postion": 17,
+      "create_at": "2020-06-23 17:56:31"
+    },
+    {
+      "category_id": "90215",
+      "category_name": "Post Office",
+      "category_avatar": "category_2d69daaf-9e94-4073-8675-8fcd254a7ab4.png",
+      "category_postion": 18,
+      "create_at": "2020-06-23 17:57:35"
+    },
+    {
+      "category_id": "15692",
+      "category_name": "Petrol Pump",
+      "category_avatar": "category_b9d79b7f-3a3a-4620-810c-d5cd778eec49.png",
+      "category_postion": 19,
+      "create_at": "2020-06-23 17:58:51"
+    }
+  ]
+}
